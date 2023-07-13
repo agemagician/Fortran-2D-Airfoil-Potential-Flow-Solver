@@ -1,0 +1,6 @@
+build/
+*.o
+*.mod
+*.vtk
+*.csv
+.DS_Store

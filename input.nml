@@ -1,0 +1,12 @@
+&input
+  naca_code  = '2412'
+  alpha_deg  = 5.0
+  ni         = 256
+  nj         = 96
+  router     = 30.0
+  first_cell = 1.0e-3
+  tol        = 1.0e-10
+  maxiter    = 2000
+  vtk_path   = 'flow.vtk'
+  cp_path    = 'cp.csv'
+/
